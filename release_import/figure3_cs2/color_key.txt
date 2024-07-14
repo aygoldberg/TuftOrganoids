@@ -1,0 +1,9 @@
+gene	group	color
+	Tuft-1	#FFB6C1
+	Tuft-4	#e00a0a
+	epcam_MMP7	#556B2F
+RGS13	Tuft-2	#ff69b4
+MKI67	Tuft-3	#a36250
+OLFM4	Stem cells	#AFEEEE
+REG4	Goblet cells-1	#48D1CC
+ITLN1	Goblet cells-2	#008B8B
