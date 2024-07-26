@@ -13,8 +13,11 @@ Please send questions to Amir Giladi: a.giladi@hubrecht.eu
 Package versions:
 
 plotrix	3.7-6
+
 plyr	1.8.7
+
 reshape2	1.4.4
+
 Hmisc	4.4-1
 Formula	1.2-4
 survival	3.2-11
