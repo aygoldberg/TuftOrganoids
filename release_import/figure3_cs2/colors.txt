@@ -1,0 +1,17 @@
+	x
+1	#e00a0a
+2	#e00a0a
+3	#e00a0a
+4	#e00a0a
+5	#e00a0a
+6	#e00a0a
+7	#e00a0a
+8	#AFEEEE
+9	#AFEEEE
+10	#008B8B
+11	#008B8B
+12	#48D1CC
+13	#48D1CC
+14	#a36250
+15	#FFB6C1
+16	#ff69b4

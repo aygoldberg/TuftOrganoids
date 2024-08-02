@@ -1,0 +1,7 @@
+tag	seeder_cell	medium
+CMO309	non-tuft	expansion
+CMO310	tuft	diff
+CMO311	tuft	diff+IL4/13
+CMO312	tuft	expansion
+CMO301	non-tuft	diff
+CMO302	non-tuft	diff+IL4/13
