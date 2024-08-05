@@ -6,9 +6,9 @@ In order to set up a running environment, run the provided preprocessing.ipynb s
 
 Other scripts should run in this order:
 
-figure2.ipynb
-
 figure1.ipynb
+
+figure2.ipynb
 
 figure3.ipynb
 
