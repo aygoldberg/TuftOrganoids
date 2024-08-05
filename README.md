@@ -69,3 +69,6 @@ clusterProfiler	3.14.0
 RColorBrewer	1.1-3
 
 metacell	0.3.5
+
+SeuratDisk	0.0.0.9019
+
