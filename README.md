@@ -5,11 +5,12 @@ This repository contains all the needed code and metadata files to analyze and g
 In order to set up a running environment, run the provided preprocessing.ipynb script.
 
 Other scripts should run in this order:
+
+figure2.ipynb
+
 figure1.ipynb
 
 figure3.ipynb
-
-figure4.ipynb
 
 Please send questions to Amir Giladi: a.giladi@hubrecht.eu
 

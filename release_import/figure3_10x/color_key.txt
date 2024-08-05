@@ -1,0 +1,9 @@
+gene	group	color
+	Progenitors	orange
+	Secretory prog. I	#00BFFF
+	Secretory prog. II	blue
+LGR5	Stem cells	antiquewhite
+LRMP	Tuft cells	#BC8F8F
+CHGA	EEC	#8B4513
+MUC2	Goblet cells	#FFB6C1
+CXCL5	Immature goblet cells	#6A5ACD
